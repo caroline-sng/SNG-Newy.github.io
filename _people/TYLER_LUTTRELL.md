@@ -2,7 +2,7 @@
 title: Tyler Luttrell
 auto-header: none
 icon: fa-user
-order: 6
+order: 9
 ---
 <head>
 <style>
@@ -40,6 +40,4 @@ img.portrait {
   {% endfor %}
   </div>
 </section>
-git add --all
-git commit -m 'adding my profile'
-git push
+
