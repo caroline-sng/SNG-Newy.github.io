@@ -2,7 +2,9 @@
 title: Jayson Jeganathan
 auto-header: none
 icon: fa-user
-order: 4
+order: 5
+---
+
 <head>
 <style>
 img.portrait {
