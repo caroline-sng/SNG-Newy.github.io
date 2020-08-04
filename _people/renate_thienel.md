@@ -23,7 +23,7 @@ img.portrait {
 <section>
   <div class="row">
   {% for person in site.team.people %}
-	{% if person.initials == "RN" %}
+	{% if person.initials == "RT" %}
 	  <div class="col">
 		<img class="portrait" src="{{ person.image }}" alt="">
 	  </div> 
