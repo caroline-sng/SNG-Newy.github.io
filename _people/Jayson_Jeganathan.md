@@ -2,7 +2,7 @@
 title: Jayson Jeganathan
 auto-header: none
 icon: fa-user
-order: 5
+order: 7
 ---
 
 <head>
