@@ -2,7 +2,7 @@
 title: Léonie Borne
 auto-header: none
 icon: fa-tree
-order: 2
+order: 3
 ---
 
 <head>
