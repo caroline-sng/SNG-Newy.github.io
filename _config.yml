@@ -69,7 +69,7 @@ team:
     people:
       - name: "Michael Breakspear"
         initials: "MB"
-        role: "Group Leader"
+        role: "Group Leader \\ Systems Neuroscience Group"
         image: assets/images/Breakspear Michael.jpg
         social:
           - url: https://github.com/Breakspear
