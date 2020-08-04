@@ -2,7 +2,7 @@
 title: Josie Rae
 auto-header: none
 icon: fa-user
-order: 10
+order: 8
 ---
 
 <head>
