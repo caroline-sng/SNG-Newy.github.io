@@ -50,3 +50,5 @@ human brain in pathology and mental illness.
 I am Greek and Australian, and have Gamilaraay heritage on my Australian side.
 I completed my undergrad at Queensland University of Technology and moved to Newcastle in 2020.
 I am currently completing a PhD at University of Newcastle under Michael Breakspear.
+
+In my spare time I write fantasy books and do carpentry.
