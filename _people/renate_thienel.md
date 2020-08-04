@@ -1,8 +1,8 @@
 ---
-title: RENATE THIENEL
+title: Renate Thienel
 auto-header: none
 icon: fa-user
-order: 2
+order: 6
 ---
 
 <head>
