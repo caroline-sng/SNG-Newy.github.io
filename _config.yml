@@ -174,7 +174,13 @@ team:
         newline: true
       - name: "Tyler Luttrell"
         initials: "TL"
-        role: "Student"
+        role: "Honours Student"
         image: assets/images/Tyler_Luttrell.jpg
         research_interest: Empathy and compassion fatigue
         newline: false
+      - name: "Josie Rae"
+       initials: "JR"
+       role: "Honours Student"
+       image: assets/images/josie_rae.jpg
+       research_interest: Research on the brain and behaviour
+       newline: false
