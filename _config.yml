@@ -99,3 +99,16 @@ team:
             icon: fab fa-researchgate
         research_interest: Real-time approaches to monitor or change brain signals
         newline: false
+      - name: "Jayson Jeganathan"
+        initials: "JJ"
+        role: "PhD student"
+        image: assets/images/Headshot1.jpg
+        social:
+          - url: https://twitter.com/askdrjeg
+            icon: fab fa-twitter
+          - url: https://scholar.google.com.au/citations?user=wDTYMgIAAAAJ&hl=en
+            icon: fab fa-google
+          - url: https://github.com/jaysonjeg
+            icon: fab fa-github
+        research_interest: Brain connectivity, Emotional inference, Psychosis
+        newline: false
