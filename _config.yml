@@ -190,6 +190,6 @@ team:
       - name: "Jennifer Palummo"
         initials: "JP"
         role: "Honours Student"
-        image: assets/images/Jennifer_Palummo.jpg
+        image: assets/images/jennifer_palummo.jpg
         research_interest: Human brain
         newline: false
