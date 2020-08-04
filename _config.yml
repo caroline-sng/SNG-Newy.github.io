@@ -144,3 +144,19 @@ team:
             icon: fab fa-google
         research_interest: Active inference in cognitive deficits in psychosis
         newline: false
+      -  name: "Megan Campbell"
+        initials: "MC"
+        role: "Postdoc"
+        image: assets/images/megan.jpg
+        social:
+          - url: https://twitter.com/MegaEJ_Campbell
+            icon: fab fa-twitter
+          - url: https://github.com/meganEJcampbell
+            icon: fab fa-github
+          - url: https://www.researchgate.net/profile/Megan_Campbell
+            icon: fab fa-researchgate
+          - url: https://scholar.google.com/citations?user=djvWO14AAAAJ&hl=en
+            icon: fab fa-google
+        research_interest: Emotional inference; perception & action; fMRI
+        newline: false
+
