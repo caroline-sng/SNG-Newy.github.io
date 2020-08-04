@@ -41,8 +41,6 @@ img.portrait {
   </div>
 </section>
 
-
-## Research Interests
 I am the group leader of the Systems Neuroscience Group with interests in computational neuroscience and translational neuroimaging. My contributions to the former focus on dynamic models of large-scale brain activity, toolbox development and the detection of nonlinear dynamics in empirical data. My work in translational imaging encompasses healthy ageing, dementia, bipolar disorder and schizophrenia, with a focus on connectomics and risk prediction.
 
 I grew up in Sydney and studied medicine, philosophy and mathematics. I undertook early career research training in the School of Physics at the University of Sydney before moving to the School of Psychiatry at UNSW as a mid-career researcher.
