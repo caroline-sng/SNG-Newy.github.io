@@ -175,6 +175,6 @@ team:
       - name: "Tyler Luttrell"
         initials: "TL"
         role: "Student"
-        image: assets/images/Tyler_Luttrell.jpg.jpg
+        image: assets/images/Tyler_Luttrell.jpg
         research_interest: Empathy and compassion fatigue
         newline: false
