@@ -2,7 +2,7 @@
 title: Renate Thienel
 auto-header: none
 icon: fa-user
-order: 6
+order: 4
 ---
 
 <head>
