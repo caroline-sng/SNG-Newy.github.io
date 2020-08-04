@@ -2,8 +2,9 @@
 title: Josie Rae
 auto-header: none
 icon: fa-user
-order: 8
+order: 10
 ---
+
 <head>
 <style>
 img.portrait {
@@ -40,5 +41,3 @@ img.portrait {
   {% endfor %}
   </div>
 </section>
-git add --all
-git commit -m 'adding my profile'
