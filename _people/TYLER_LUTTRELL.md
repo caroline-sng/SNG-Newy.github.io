@@ -2,7 +2,7 @@
 title: Tyler Luttrell
 auto-header: none
 icon: fa-user
-order: 9
+order: 10
 ---
 <head>
 <style>

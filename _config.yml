@@ -129,7 +129,7 @@ team:
         - url: https://www.researchgate.net/profile/Renate_Thienel
           icon: fab fa-researchgate
         research_interest: Schizophrenia, Cognitive Neuroscience
-        newline: true
+        newline: false
       - name: "Megan Campbell"
         initials: "MC"
         role: "Postdoc"
@@ -190,6 +190,6 @@ team:
       - name: "Jennifer Palummo"
         initials: "JP"
         role: "Honours Student"
-        image: assets/images/Jennifer_Palummo.jpg
+        image: assets/images/jennifer_palummo.jpg
         research_interest: Human brain
         newline: false
