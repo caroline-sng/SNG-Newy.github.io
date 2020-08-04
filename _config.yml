@@ -171,4 +171,10 @@ team:
           - url: https://scholar.google.com/citations?user=djvWO14AAAAJ&hl=en
             icon: fab fa-google
         research_interest: Emotional inference; perception & action; fMRI
+        newline: true
+      - name: "Tyler Luttrell"
+        initials: "TL"
+        role: "Student"
+        image: assets/images/Tyler_Luttrell.jpg
+        research_interest: Empathy and compassion fatigue
         newline: false
