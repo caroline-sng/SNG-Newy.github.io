@@ -67,6 +67,19 @@ team:
     subtext: Click on our portrait to get more information!
     section: team
     people:
+      - name: "Michael Breakspear"
+        initials: "MB"
+        role: "Group Leader"
+        image: assets/images/Breakspear Michael.jpg
+        social:
+          - url: https://github.com/Breakspear
+            icon: fab fa-github
+          - url: https://scholar.google.com.au/citations?hl=en&user=hrx691cAAAAJ
+            icon: fab fa-google
+          - url: https://twitter.com/drbreaky
+            icon: fab fa-twitter
+        research_interest: Real-time approaches to monitor or change brain signals
+        newline: true
       - name: "Léonie Borne"
         initials: "LB"
         role: "Postdoc"
@@ -159,4 +172,3 @@ team:
             icon: fab fa-google
         research_interest: Emotional inference; perception & action; fMRI
         newline: false
-
