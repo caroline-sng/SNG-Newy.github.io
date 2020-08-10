@@ -45,10 +45,7 @@ img.portrait {
 I am very interested in the cognitive symptoms of psychosis
 and more generally in the functioning and structure of the 
 human brain in pathology and mental illness. 
+My work focuses on approaching cognitive dysfunction in psychosis using a Bayesian approach. I hope to describe mechanisms of gain and attention within an interference framework. I utilise functional, diffusion and structural neuroimaging, as well as behavioural and cognitive paradigms, and computational approaches to cognition.
 
 ## Biography
-I am Greek and Australian, and have Gamilaraay heritage on my Australian side.
-I completed my undergrad at Queensland University of Technology and moved to Newcastle in 2020.
-I am currently completing a PhD at University of Newcastle under Michael Breakspear.
-
-In my spare time I write fantasy books and do carpentry.
+I am Greek and Australian, and have Gamilaraay heritage on my Australian side. Upon completing a Bachelor of Science at Queensland University of Technology in 2017, I worked at QIMR Berghofer Medical Research Institute as assistant to PI on the Prospective Imaging Study of Ageing; an AQIP grant and several other projects. I am currently completing a PhD at University of Newcastle under Michael Breakspear. In my spare time I write fantasy books and do carpentry.
