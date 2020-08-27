@@ -120,11 +120,11 @@ team:
         social:
         - url: https://github.com/RThienel
           icon: fab fa-github
-        - url: hhttps://scholar.google.com.au/citations?user=WVnHs0YAAAAJ&hl=en
+        - url: https://scholar.google.com.au/citations?user=WVnHs0YAAAAJ&hl=en
           icon: fab fa-google
-        - url: https://twitter.com/RThienel
+        - url: https://twitter.com/renatethienel
           icon: fab fa-twitter
-        - url: https://www.linkedin.com/in/renate-thienel-79669513/?originalSubdomain=au
+        - url: https://www.linkedin.com/in/renate-thienel-79669513?originalSubdomain=au
           icon: fab fa-linkedin-in
         - url: https://www.researchgate.net/profile/Renate_Thienel
           icon: fab fa-researchgate

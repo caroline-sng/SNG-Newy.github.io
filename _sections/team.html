@@ -31,8 +31,11 @@ img.portrait {
 		<a href="https://SNG-Newy.github.io//people.html">
 		<img class="portrait" src="{{ person.image }}" alt="">
 		</a>
-		<h3>{{ person.name }}</h4>
+		<h3>{{ person.name }}</h3>
 		<h5>{{ person.role }}</h5>
+		{% if person.initials == "MB"%}
+		<h3>Systems Neuroscience Group</h3>
+		{% endif %}
 	</div>
 	{% if person.newline %}
 	</div>
