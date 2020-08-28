@@ -9,9 +9,9 @@ order: 4
 <style>
 img.portrait {
   border-radius: 50%;
-  width:auto;
   border: 1px solid #ddd;
   padding: 5px;
+  width:100%;
 }
 
 .row {
@@ -19,6 +19,10 @@ img.portrait {
   justify-content: center;
 }
 
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
 </style>
 </head>
 
@@ -27,7 +31,7 @@ img.portrait {
 <section id="{{ site.team.section | default: "team" }}">
   <div class="row">
   {% for person in site.team.people %}
-	<div class="col" style="width:25%;">
+	<div class="column">
 		<a href="https://SNG-Newy.github.io//people.html">
 		<img class="portrait" src="{{ person.image }}" alt="">
 		</a>
