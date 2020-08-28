@@ -129,7 +129,7 @@ team:
         - url: https://www.researchgate.net/profile/Renate_Thienel
           icon: fab fa-researchgate
         research_interest: Schizophrenia, Cognitive Neuroscience
-        newline: false
+        newline: true
       - name: "Megan Campbell"
         initials: "MC"
         role: "Postdoc"
@@ -144,8 +144,7 @@ team:
           - url: https://scholar.google.com/citations?user=djvWO14AAAAJ&hl=en
             icon: fab fa-google
         research_interest: Emotional inference; perception & action; fMRI
-        newline: true
-
+        newline: false
       - name: "Jayson Jeganathan"
         initials: "JJ"
         role: "PhD student"
