@@ -8,4 +8,4 @@ order: 1
 ---
 
 
-## Research Projects
+## **Research Projects**
