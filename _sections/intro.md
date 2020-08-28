@@ -7,4 +7,4 @@ icon: fa-glasses
 order: 1
 ---
 
-## Systems Neuroscience Group, Newcastle
+## **Systems Neuroscience Group, Newcastle**
