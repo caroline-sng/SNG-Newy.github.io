@@ -29,7 +29,7 @@ img.portrait {
 	  <div class="col">
 	      <h2> {{person.name}} </h2>
               <h3> {{ person.role }} </h3>
-		 {{ person.research_interest | markdownify }}
+		 {{ person.research_interest | test }}
 		 <ul class="icons">
 		{% for network in person.social %}
 		  <li><a href="{{- network.url -}}" class="{{ network.icon }} fa-2x"></a></li>
