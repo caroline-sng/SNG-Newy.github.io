@@ -10,30 +10,15 @@ and (3) add a Markdown file with a short description of your research interests 
 
 So here are the steps you need to do to make a pull request to do so.
 
-1. **Fork the repository to create a copy of it on your github account**
+1. **Fork the repository to create a copy of it on your github account and create a new branch**
 
-<!-- blank line -->
-<figure class="video_container">
-  <video>
-    <source src="/assets/images/fork.webm" type="video/webm">
-  </video>
-</figure>
-<!-- blank line -->
+Here is a short video to show how to do that online: ![Tuto Fork](/assets/images/fork.webm)
 
-3. **Create a new branch where you want to add your profile, and switch to that branch**
-
-![Fork video](/assets/images/fork.webm)
-
-```
-git branch YOUR_NAME-profile
-git checkout YOUR_NAME-profile
-```
-
-4. **STEP (1) Add an image of you in the assets/images folder**
+2. **STEP (1) Add an image of you in the assets/images folder**
 
 Put a copy of your image in the assets/images folder and rename it with your name like YOUR_NAME.jpg.
 
-5. **STEP (2) Add you as a member of the team in the file _config.yml**
+3. **STEP (2) Add you as a member of the team in the file _config.yml**
 
 Modify the _config.yml file as in the example below:
 
@@ -77,7 +62,7 @@ team:
 - `research_interest`: your area of research
 - `newline`: default is `false`. Use `true` when you want to start a new line of people in the homepage 
 
-6. **STEP (3) Add a markedown file with a short description of your research interests in the _people folder (OPTIONAL)**
+4. **STEP (3) Add a markedown file with a short description of your research interests in the _people folder (OPTIONAL)**
 
 Create a file named YOUR_NAME.md in the _people folder.
 
@@ -149,24 +134,11 @@ It's so much more comfortable to walk around naked!
 I love going in circles. And eating *peanuts*.
 ```
 
-7. **Add and then commit all the changes you have made**
+5. **Commit the changes you have made and open a pull request**
 
-```
-git add --all
-git commit -m 'adding my profile'
-```
+Here is a short video to show how to do that online: ![Tuto Pull Request](/assets/images/push.webm)
 
-8. **Update your github repository by pushing to it the changes made on the repository on your computer**
-
-```
-git push
-```
-
-9. **Open a pull request**
-
-Go and open a pull request page from the SNG-Newy.github.io repository.
-
-We (and the magic of automation) will take care of the rest. :-)
+You should then wait for one of the collaborator of this project to accept your changes. Thanks for your help! :-)
 
 
 
