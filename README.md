@@ -12,15 +12,17 @@ So here are the steps you need to do to make a pull request to do so.
 
 1. **Fork the repository to create a copy of it on your github account**
 
-You can find more information about forking [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo).
-
-2. **Clone the repository from your github account to your computer**
-
-```
-git clone https://github.com/YOUR_GITHUB_USERNAME/SNG-Newy.github.io
-```
+<!-- blank line -->
+<figure class="video_container">
+  <video>
+    <source src="/assets/images/fork.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
 
 3. **Create a new branch where you want to add your profile, and switch to that branch**
+
+![Fork video](/assets/images/fork.webm)
 
 ```
 git branch YOUR_NAME-profile
