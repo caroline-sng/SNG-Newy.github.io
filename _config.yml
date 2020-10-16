@@ -159,7 +159,7 @@ team:
           icon: fab fa-researchgate
         research_interest: Schizophrenia, Cognitive Neuroscience
         newline: true
-    
+
       - name: "Jayson Jeganathan"
         initials: "JJ"
         role: "PhD student"
@@ -207,4 +207,5 @@ team:
         image: assets/images/jennifer_palummo.jpg
         research_interest: Human brain
         newline: false
+
 
